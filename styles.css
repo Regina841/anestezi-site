@@ -765,3 +765,15 @@ MOBILE
   }
 
 }
+.btn--dark {
+  background: #141414;
+  color: #ffffff;
+  border: 1px solid #141414;
+  transition: all 0.3s ease;
+}
+
+.btn--dark:hover {
+  background: transparent;
+  color: #141414;
+  transform: translateY(-2px);
+}
