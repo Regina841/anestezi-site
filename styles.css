@@ -777,3 +777,17 @@ MOBILE
   color: #141414;
   transform: translateY(-2px);
 }
+/* =========================
+   TELEGRAM BUTTON
+========================= */
+
+.btn--telegram {
+  background: #141414;
+  color: #ffffff;
+  border: 1px solid #141414;
+}
+
+.btn--telegram:hover {
+  background: #000000;
+  transform: translateY(-2px);
+}
