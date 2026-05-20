@@ -765,3 +765,30 @@ MOBILE
   }
 
 }
+.btn--dark {
+  background: #141414;
+  color: #ffffff;
+  border: 1px solid #141414;
+  transition: all 0.3s ease;
+}
+
+.btn--dark:hover {
+  background: transparent;
+  color: #141414;
+  transform: translateY(-2px);
+}
+.tg-button {
+  display: inline-block;
+  padding: 14px 28px;
+  background: #141414;
+  color: white;
+  text-decoration: none;
+  border-radius: 14px;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.tg-button:hover {
+  opacity: 0.85;
+  transform: translateY(-2px);
+}
